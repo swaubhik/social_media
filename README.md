@@ -1,10 +1,10 @@
-# Social-Media-Launcher-Chrome-Extension
+# Social-Media-Launcher-Chrome-Extension:rocket:
 Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
 
 ## Downloading and Deploying the Extension :eyes:	
 Open __Command Prompt/Terminal__ and copy-paste the following command:
 ```
-git clone https://github.com/swaubhik/Social-Media-Launcher-Chrome-Extension.git
+git clone https://github.com/swaubhik/social_media.git
 ```
 
 Or click on __Clone or Download__ button and choose __Download ZIP__     
@@ -31,7 +31,13 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 
 ## Functioning of the Extension :purple_heart:
 
-Your extension is ready to work! Enjoy:thumbsup:
+Your extension is ready to work! Enjoy:tada:
 
 ![Pic 1](/Readme_Images/pic01.png)
+
+## :+1: Credits
+
+- [Traversy Media](https://www.traversymedia.com/)
+
+
 
